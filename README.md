@@ -9,7 +9,8 @@
      
 3.通过Embedding向量进行相似度计算，匹配最优人脸
 
-
+模型文件地址 链接：https://pan.baidu.com/s/1gO1LIVgTsFJHqFe0XSHkvw 
+提取码：k3lh
 
 提供了web服务 启动文件 api和页面形式进行人脸检测，可用于人脸对比 人脸登录等应用
 
